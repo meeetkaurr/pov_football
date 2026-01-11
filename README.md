@@ -1,6 +1,6 @@
 # pov_football
 Love, but written in code
-💻 POV: Coded With Love 🤍  
+ 
 
 Cute POV-based web projects made for reels.
 Programmer gf × footballer bf vibes ✨
